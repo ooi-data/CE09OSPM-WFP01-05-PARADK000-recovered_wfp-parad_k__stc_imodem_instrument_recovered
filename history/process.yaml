@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSPM-WFP01-05-PARADK000-recovered_wfp-parad_k__stc_imodem_instrument_recovered
 data_stream: CE09OSPM-WFP01-05-PARADK000-recovered_wfp-parad_k__stc_imodem_instrument_recovered
-end_date: '2019-12-31T20:30:26.000Z'
-last_updated: '2021-05-05T00:18:10.359003'
+end_date: '2021-03-26T21:54:56.000Z'
+last_updated: '2021-07-19T20:18:45.084475Z'
 start_date: '2014-04-19T01:02:36.000Z'
-status: success
+status: pending
