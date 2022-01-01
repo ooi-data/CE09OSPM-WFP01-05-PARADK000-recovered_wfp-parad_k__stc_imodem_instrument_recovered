@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSPM-WFP01-05-PARADK000-recovered_wfp-parad_k__stc_imodem_instrument_recovered
-last_request: '2021-12-21T23:14:47.986971Z'
+last_request: '2022-01-01T01:29:21.426078Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSPM-WFP01-05-PARADK000-recovered_wfp-parad_k__stc_imodem_instrument_recovered/main/history/response.json
-status: success
+status: pending
